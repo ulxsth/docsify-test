@@ -1,5 +1,5 @@
 # 記事１
-このページは、`/#/article1` からアクセスできます。
+このページは、`/#/articles/article1` からアクセスできます。
 
 ```js
 // sample code
